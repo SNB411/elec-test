@@ -49,7 +49,7 @@ module.exports = {
         authToken: process.env.GITHUB_TOKEN,
         repository: {
           owner: 'SNB411',
-          name: 'elect-test'
+          name: 'elec-test'
         },
         prerelease: false,
         draft: true
